@@ -15,4 +15,4 @@ contents:
  c) Machine Learning: Classification
  d) Machine Learning: Clustering and Retrieval
 
-3)Mathematics for Machine Learning: Linear Algebra by Imperial College London
+3) Mathematics for Machine Learning: Linear Algebra by Imperial College London
